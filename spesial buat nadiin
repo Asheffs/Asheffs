@@ -1,9 +1,9 @@
 <html lang="en">
   <!-- 
-  Mau custom web ucapan online? Order di Dika Tutorial aja!
-  Youtube: Deka Tutorial
-  Tiktok: @deka_tutorial
-  Instagram: @deka_tutorial
+  selamattt yaaa :) 
+  wa?   :081223576131
+  Tiktok: @Ash_Eff_S
+  Instagram: @as_eff_s
   -->
   <head>
     <meta charset="UTF-8" />
@@ -22,26 +22,26 @@
   </head>
   <body class="body">
     <div class="open">
-      <div class="card"> <h2>Ada pesan buat kamu</h2>
+      <div class="card"> <h2>Ada pesan buat kamu nadin</h2>
         <img class="mail" src="https://dekatutorial.github.io/spesial_mail.png" alt="" srcset="" />
-        <h3>Tekan untuk membuka</h3>
+        <h3>Tekann untukk membukaa</h3>
       </div>
     </div>
     <div class="atas" id="atas">
       <img src="https://dekatutorial.github.io/spesial_stikerUltah.png" alt="" />
-      <h2>Scroll kebawah ya</h2>
+      <h2>scrolll kebawahh yaaa</h2>
     </div>
-
-    <p data-aos="zoom-in">Isi Ucapan Disini</p>
-    <p data-aos="zoom-in">Isi Ucapan Disini</p>
-    <p data-aos="zoom-in">Isi Ucapan Disini</p>
-    <p data-aos="zoom-in">Isi Ucapan Disini</p>
-
-    <p data-aos="zoom-in">Pencet love nya
+    <p data-aos="zoom-in">haiii kamuuu</p>
+    <p data-aos="zoom-in">ciyeeeeee</p>
+    <p data-aos="zoom-in">yangg harii inii ulangg tahunn</p>
+    <p data-aos="zoom-in">semogaa panjangg umurrr</p>
+    <p data-aos="zoom-in">sehattt selaluu</p>
+    <p data-aos="zoom-in">semogaaa apaa yangg diinginkann terkabulkann</p>
+    <p data-aos="zoom-in">haruss lebihh baikk lagii yaa darii tahunn lalu</p>
       <i class="material-icons-sharp"> favorite </i></p>
-
-    <script>
-
+      <p data-aos="zoom-in">pencett lovee nyaa
+      <i class="material-icons-sharp"> favorite </i></p>
+      <script>
       var musik = "";
 
 // Yang mau tanpa wm, custom tampilan, bisa order web ucapan di Deka Tutorial (DM IG @deka_tutorial)
@@ -51,7 +51,7 @@
       AOS.init({ once: true });
     </script>
     <script>
-      DekaTutorial(musik);
+      (musik);
     </script>
   </body>
 </html>
